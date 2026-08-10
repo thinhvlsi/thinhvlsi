@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **transitioning my digital hardware knowledge into IC Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/thinhvlsi](https://github.com/lequocthinh-phys)
+- 👨‍💻 All of my projects are available at [https://github.com/lequocthinh-phys](https://github.com/lequocthinh-phys)
 
 - 💬 Ask me about **Proteus simulations, MATLAB (EEG/ECG), Digital ICs (74LS), and C++ (OOP)**
 
